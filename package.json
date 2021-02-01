@@ -1,7 +1,8 @@
 {
-  "name": "truffle-debug-utils",
+  "name": "moxie-debug-utils",
+  "namespace": "moxiesuite",
   "version": "1.0.5",
-  "description": "Integration utils for truffle/truffle-debugger",
+  "description": "Integration utils for moxie/moxie-debugger",
   "dependencies": {
     "async": "^1.4.2",
     "debug": "^3.1.0",
@@ -13,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trufflesuite/truffle-debug-utils.git"
+    "url": "git+https://github.com/moxiesuite/moxie-debug-utils.git"
   },
   "author": "Truffle Suite <inquiry@trufflesuite.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trufflesuite/truffle-debug-utils/issues"
+    "url": "https://github.com/moxiesuite/moxie-debug-utils/issues"
   },
-  "homepage": "https://github.com/trufflesuite/truffle-debug-utils#readme"
+  "homepage": "https://github.com/moxiesuite/moxie-debug-utils#readme"
 }

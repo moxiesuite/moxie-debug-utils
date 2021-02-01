@@ -1,2 +1,2 @@
-# truffle-debug-utils
-Code for integration between Truffle and Truffle Debugger
+# moxie-debug-utils
+Code for integration between Moxie and Moxie Debugger
